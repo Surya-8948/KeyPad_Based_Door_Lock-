@@ -7,13 +7,12 @@ The user enters a **4-digit PIN** using the keypad. If the PIN matches the store
 ---
 
 ## 📸 Project Preview
-
-> Replace the image below with your own project image if needed.
-
+---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Surya-8948/RF-Id-_Based_Control_System-/main/Arduino%20with%20rf%20id.png" width="700">
+  <img src="https://raw.githubusercontent.com/Surya-8948/KeyPad_Based_Door_Lock-/main/Arduino_KeyPad_Based_Door_Lock.png"
+       alt="Arduino Keypad Based Door Lock"
+       width="900">
 </p>
-
 ---
 
 # ✨ Features
